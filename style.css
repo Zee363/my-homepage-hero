@@ -1,5 +1,11 @@
 .homepage {
   background: #C2DEDC;
+  padding: 90px;
+  border-radius: 4;
+  margin-top: 60px;
+  margin-left: 55px;
+  margin-right: 55px;
+  margin-bottom: 60px;
 }
 .hero {
   text-align: center;
@@ -13,8 +19,8 @@ h2 {
 
 h1 {
   font-family: 'Playfair Display', serif;
-  font-weight: bold;
-  font-size: 96px;
+  font-weight: bolder;
+  font-size: 186px;
   text-align: center;
   line-height: 128px;
 }
@@ -27,5 +33,5 @@ p {
 }
 .button {
   text-align: center;
-  border-radius: 4;
+  padding: 60px;
 }

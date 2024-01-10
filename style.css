@@ -1,0 +1,31 @@
+.homepage {
+  background: #C2DEDC;
+}
+.hero {
+  text-align: center;
+}
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  font-size: 96px;
+  text-align: center;
+  line-height: 128px;
+}
+
+p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 36px;
+}
+.button {
+  text-align: center;
+  border-radius: 4;
+}

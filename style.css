@@ -25,12 +25,39 @@ h1 {
   line-height: 128px;
 }
 
-p {
+.homepage p {
   font-family: 'Poppins', sans-serif;
   font-weight: normal;
   font-size: 24px;
   line-height: 36px;
 }
+p {
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Playfair Display', serif;
+  font-weight: bolder;
+  font-size: 200px;
+}
+.design-container p {
+  font-family: 'Poppins', serif;
+  font-weight: normal;
+  font-size: 16px;
+  text-align: start;
+}
+
+.design-container button {
+  font-family: 'Poppins' serif;
+  font-weight: medium;
+  font-size: 16px;
+  border-radius: 1px solid gray;
+  color: white;
+  background-color: gray;
+  padding: 6px 8px;
+  border-style: hidden;
+} 
+
 .button {
   text-align: center;
   padding: 60px;

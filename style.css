@@ -47,17 +47,6 @@ h3 {
   text-align: start;
 }
 
-.design-container button {
-  font-family: 'Poppins' serif;
-  font-weight: medium;
-  font-size: 16px;
-  border-radius: 1px solid gray;
-  color: white;
-  background-color: gray;
-  padding: 6px 8px;
-  border-style: hidden;
-} 
-
 .button {
   text-align: center;
   padding: 60px;

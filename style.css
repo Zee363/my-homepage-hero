@@ -25,6 +25,24 @@ h1 {
   line-height: 128px;
 }
 
+.about-hero h1 {
+  font-size: 40px;
+  font-family: 'Playfair Display', serif;
+  font-weight: bold;
+  text-align: center;
+}
+ .about-hero h2 {
+  font-size: 18px;
+  font-family: 'Poppins', serif;
+  font-weight: bold;
+  }
+
+ .about-hero p {
+  font-family: 'Poppins', serif;
+  font-weight: normal;
+  font-size: 16px;
+  }
+  
 .homepage p {
   font-family: 'Poppins', sans-serif;
   font-weight: normal;

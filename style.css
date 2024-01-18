@@ -88,5 +88,8 @@ h3 {
   background: #C2DEDC;
 }
 
-@media (max-width: 900px) .content-container h1 {
+@media (max-width: 900px) {
+  h1, .content-container h1 {
+    font-size: 34px;
+  }
 }

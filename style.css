@@ -25,24 +25,38 @@ h1 {
   line-height: 128px;
 }
 
-.about-hero h1 {
+.content-container h1 {
   font-size: 40px;
   font-family: 'Playfair Display', serif;
   font-weight: bold;
   text-align: center;
 }
- .about-hero h2 {
+ .content-container h2 {
   font-size: 18px;
   font-family: 'Poppins', serif;
   font-weight: bold;
   }
 
- .about-hero p {
+ .content-container p {
   font-family: 'Poppins', serif;
   font-weight: normal;
   font-size: 16px;
   }
+
+  .content-container img {
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .project-button {
+  margin-left: 197px;
   
+  }
 .homepage p {
   font-family: 'Poppins', sans-serif;
   font-weight: normal;
@@ -68,4 +82,11 @@ h3 {
 .button {
   text-align: center;
   padding: 60px;
+}
+
+.pancake-design {
+  background: #C2DEDC;
+}
+
+@media (max-width: 900px) .content-container h1 {
 }
